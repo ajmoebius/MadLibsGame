@@ -1,4 +1,4 @@
-//Authors: 
+//Authors: Aaron Moebius
 #include <iostream>
 #include <string>
 using namespace std;
